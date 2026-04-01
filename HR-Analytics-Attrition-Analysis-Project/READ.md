@@ -97,7 +97,7 @@ Recommendations
 10. Tools and Technologies  
 - Power BI  
 - DAX  
-- Data Modeling  
+- Data Transformation  
 - Data Visualization  
 
 11. Conclusion  
